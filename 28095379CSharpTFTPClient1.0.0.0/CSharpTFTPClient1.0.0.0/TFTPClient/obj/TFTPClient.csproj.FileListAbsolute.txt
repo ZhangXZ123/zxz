@@ -1,0 +1,9 @@
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.exe
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.dll
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.TFTPFrm.resources
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.csproj.GenerateResource.Cache
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.exe
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.pdb

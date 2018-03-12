@@ -1,0 +1,3 @@
+A simple TFTP client written in C# with two main methods: get and put. Fully RFC compliant with support for Block Size and Transfer Size.
+
+This project was an attempt at creating a class that will allow for easy TFTP client implementation in any project. This is done through a class which has two main methods: get and put. By setting the host property and invoking either method a TFTP session can be initiated.

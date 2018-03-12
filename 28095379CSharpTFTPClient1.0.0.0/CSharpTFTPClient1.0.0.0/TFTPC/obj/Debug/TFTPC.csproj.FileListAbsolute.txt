@@ -1,0 +1,15 @@
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.dll
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.dll
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.pdb
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.dll
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.pdb
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.dll
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.dll
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPC\bin\Debug\TFTPC.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.csprojResolveAssemblyReference.cache
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.dll
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPC\obj\Debug\TFTPC.pdb

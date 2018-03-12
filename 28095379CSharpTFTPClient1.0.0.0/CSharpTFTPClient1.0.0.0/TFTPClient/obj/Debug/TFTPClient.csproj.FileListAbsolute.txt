@@ -1,0 +1,29 @@
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.exe
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.exe
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.dll
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.pdb
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.TFTPFrm.resources
+C:\Users\JOYkingdom\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.csproj.GenerateResource.Cache
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.exe
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.pdb
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.exe
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.pdb
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.dll
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.pdb
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.TFTPFrm.resources
+C:\Users\紫龙剑\Desktop\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2008\Projects\Cshape\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.exe
+D:\My Documents\Visual Studio 2008\Projects\Cshape\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.exe
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.exe
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPClient.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.dll
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\bin\Debug\TFTPC.pdb
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.csprojResolveAssemblyReference.cache
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.TFTPFrm.resources
+C:\Users\shuqee\Desktop\28095379CSharpTFTPClient1.0.0.0\CSharpTFTPClient1.0.0.0\TFTPClient\obj\Debug\TFTPClient.csproj.GenerateResource.Cache
